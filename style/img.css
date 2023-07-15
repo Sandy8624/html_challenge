@@ -1,0 +1,41 @@
+.border{
+	
+	width:340.20px;
+	border:3px ;
+	height:300px;
+	margin:-250px 630px;
+	
+}
+.img{
+	padding-left:100px;
+	width:400px;
+}
+.font{
+	font-weight:bold;
+	margin-bottom:4%;
+	font-size:30px;
+}
+.color{
+	font-size:14px;
+}
+.div_2{
+	width:950px;
+	height:200px;
+	border:2px blue;
+	padding:20px 40px;
+	background-color:orange;
+	margin:150px -500px;
+}
+.img_1{
+	width:45px;
+	height:45px;
+}
+.name{
+	padding:10px 0px;
+}
+.bold{
+	font-size:25px;
+	padding:18px 0px;
+}
+
+
